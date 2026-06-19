@@ -8,7 +8,7 @@ I like science and engineering. I'm drawn to synthetic biology, space, and elect
 
 - **Monash Nova Rover** — Electrical & Science sub-teams, science payload. We placed **1st in Science** and **2nd overall** (of 115 teams) at URC 2026.
 - **NovaStat** — an electrochemical potentiostat for in-field redox profiling, with a cyclic-voltammetry framework for reading environments as habitability indicators.
-- **Synthetic biology ** — created a DSL compiler (C++) for synthetic DNA assembly: lexer, recursive-descent parser, visitor-pattern AST.
+- **Synthetic biology** — created a DSL compiler (C++) for synthetic DNA assembly: lexer, recursive-descent parser, visitor-pattern AST.
 
 ### 🧰 Tools & languages
 
