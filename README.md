@@ -10,15 +10,11 @@ I like science and engineering. I'm drawn to synthetic biology, space, and elect
 - **NovaStat** — an electrochemical potentiostat for in-field redox profiling, with a cyclic-voltammetry framework for reading environments as habitability indicators.
 - **Synthetic biology** — created a DSL compiler (C++) for synthetic DNA assembly: lexer, recursive-descent parser, visitor-pattern AST.
 
-### 🧰 Tools & languages
+### 🧰 Languages
 
-​```text
-Languages    C · C++ · Python · R
-Embedded     Arduino · microcontrollers · sensor integration
-Hardware     Altium · analog & digital circuit design
-Science      electrochemistry · biosensors
-Docs         LaTeX · Overleaf
-​```
+```
+C · C++ · Python · R
+```
 
 ### 📫 Reach me
 
